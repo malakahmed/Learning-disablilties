@@ -17,4 +17,13 @@ body {
 		font-family:"arial black";
 		font-size:30px;
 	}
-	
+	th {
+		text-align:left;
+		font-family:BALLOON EB;
+		font-size:40px;
+         }
+        td {
+		text-align:left;
+		font-family:BALLOON EB;
+		font-size:40px;
+        
