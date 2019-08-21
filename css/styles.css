@@ -1,0 +1,20 @@
+body {
+	background-image:url("../images/mm.jpg");
+	background-repeat: no-repeat;
+	
+    }
+	h1 {
+		color:pink;
+		text-align: right;
+	}
+	li {
+		text-align:left;
+		font-family:forte;
+		font-size:40px;
+		
+	}
+	p{
+		font-family:"arial black";
+		font-size:30px;
+	}
+	
